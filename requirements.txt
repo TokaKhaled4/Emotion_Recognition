@@ -8,4 +8,3 @@ pandas
 matplotlib
 opencv-python
 opencv-contrib-python
-cv2
