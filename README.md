@@ -17,7 +17,10 @@ The second part of the project focuses on real-time emotion recognition. By runn
 The model was trained using the [Kaggle Emotion Dataset](https://www.kaggle.com/datasets/msambare/fer2013).
 
 ## Video Demo
-Watch the video demo of our project here: [Emotion Recognition Demo](https://www.linkedin.com/posts/kareemshawki_thrilled-to-share-the-completion-of-ai-face-activity-7236757769347821568-6-go?utm_source=share&utm_medium=member_desktop).
+Watch the video demo Emotion recognition model here: [Emotion Recognition Demo](https://www.linkedin.com/posts/kareemshawki_thrilled-to-share-the-completion-of-ai-face-activity-7236757769347821568-6-go?utm_source=share&utm_medium=member_desktop).
+
+## Project Link
+Access the live application of image classification model here: [Project Link](https://emotionsrecognition.streamlit.app/)
 
 ## My Role
  Worked on emotion classification and its deployment using CNN and Streamlit.
